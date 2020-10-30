@@ -1,0 +1,22 @@
+#-- For Lifetime type: lifetime
+ 
+[Main]
+Count=35
+ 
+[License0]
+username=Kabillo
+password=Kabillo123456789
+hwid=BFEBFBFF0001067A
+type=lifetime
+endyear=0
+endmonth=0
+endday=0
+
+[License1]
+username=medo1234
+password=angel1234
+hwid=BFEBFBFF00040651
+type=monthly
+endyear=2018
+endmonth=8
+endday=29
